@@ -1,0 +1,11 @@
+name: multiworld
+main: com.multiworld.Plugin
+version: 1.0
+api-version: 1.16
+commands:
+  createworld:
+    description: create a normal world
+  # import:
+  #   description: import world
+  joinworld:
+    description: join the world
